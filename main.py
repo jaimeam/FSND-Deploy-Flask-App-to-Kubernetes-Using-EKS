@@ -1,3 +1,7 @@
+#! /usr/bin/env python3.7
+
+# First add exec comment to avoid OS error
+
 """
 A simple app to create a JWT token.
 """
